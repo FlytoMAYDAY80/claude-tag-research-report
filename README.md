@@ -8,11 +8,12 @@
 
 ## 文件说明
 
-- `index.html`：报告正文，已发布为 GitHub Pages 首页。
+- `index.html`：报告正文，当前为 `2026-06-25` 更新版。
+- `assets/product-ui/`：报告中引用的产品界面截图资源。
 - `README.md`：项目说明文件。
 
 ## 发布方式
 
 本仓库通过 GitHub Pages 从 `main` 分支根目录发布。
 
-如果需要更新报告，只需替换或编辑 `index.html`，提交并推送到 `main` 分支即可。
+如果需要更新报告，请同步替换 `index.html` 及其引用的资源目录，然后提交并推送到 `main` 分支。
